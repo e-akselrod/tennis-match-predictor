@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data 
+tennis_data/
+*.csv
+
+# Secrets
+kaggle.json
+
+# OS cruft
+.DS_Store
+Thumbs.db
